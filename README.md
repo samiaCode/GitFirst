@@ -1,3 +1,3 @@
-#repo. first
+# repo
 
 fisrt time using repo.
